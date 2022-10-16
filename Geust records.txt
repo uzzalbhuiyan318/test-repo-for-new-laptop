@@ -1,0 +1,18 @@
+Room Number: 101
+Geust room type: AC
+Geust room size: Big
+Bed Numbers: 3
+Daily rent: 1500
+
+Room Number: 102
+Geust room type: AC
+Geust room size: Small
+Bed Numbers: 3
+Daily rent: 1200
+
+Room Number: 101
+Geust room type: AC
+Geust room size: Small
+Bed Numbers: 2
+Daily rent: 1000
+
